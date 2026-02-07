@@ -36,5 +36,5 @@ Backend:
 • Общие принципы веб-разработки
 
 📫 Контакты:
-Telegram: https://t.me/ТВОЙ_USERNAME  
-GitHub: https://github.com/ТВОЙ_GITHUB_USERNAME
+Telegram: https://t.me/@Nursultan_Tuimebai 
+GitHub: https://github.com/NurBay07
